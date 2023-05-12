@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task2</title>
+    <style>
+        body {
+            margin-left: 100px;
+            background-color: rgb(29, 32, 38);
+        }
+
+        h2 {
+            display: block;
+            text-align: center;
+            margin-right: 0px;
+
+        }
+
+        div {
+            display: block;
+        }
+
+        table {
+            margin-left: 3px;
+        }
+
+
+        * {
+            box-sizing: border-box;
+            font-family: cursive;
+            color: white;
+        }
+
+        pre {
+            font-weight: bold;
+        }
+
+        h1 {
+            display: block;
+            text-align: center;
+        }
+    </style>
+</head>
+<style>
+    td {
+        padding: 14px;
+    }
+
+    .profileOuterBorder {
+        display: inline-block;
+
+        border-radius: 40px 0px 20px 0px;
+        margin: 3px 45px 3px 45px;
+
+        box-sizing: border-box;
+
+        .dp {
+            height: 250px;
+            width: 280px;
+            align-items: center;
+            border-radius: 15px 50px;
+            position: relative;
+            right: 57px;
+        }
+
+
+    }
+</style>
+<img src="https://www.istemanit.in/static/media/ISTElogo.a74f1bcec9b36f8b044934b3c92f6b69.svg" alt="">
+<h1>Our Team Members</h1>
+<h2>Second Year</h2>
+
+<body>
+    <table>
+        <tr>
+            <td class="profileOuterBorder">
+                <div>
+                    <pre>        <img class="dp" src="https://drive.google.com/uc?export=view&id=1ehSxZt6zBYEfmZYNS8lD-ja4zUZunWWj" width="150px">
+          Akshat Maheshwari
+              Executive</pre>
+                    <table>
+                        <tr>
+                            <td> <a target="_blank" href="https://www.linkedin.com/in/akshat-maheshwari-b5846b222"> <img
+                                        src="https://tse3.mm.bing.net/th?id=OIP.EweiZI5x1TFwSg9aJw6pZgHaHa&pid=Api&P=0"
+                                        width="40px"></a></td>
+
+                            <td> <a href="https://www.instagram.com/akrules03/?igshid=YmMyMTA2M2Y%3D"> <img
+                                        src="https://tse1.mm.bing.net/th?id=OIP.incFBymNcooePgOaBQfdjgHaFj&pid=Api&P=0"
+                                        width="40px"></a></td>
+                            <td>
+                                <a target="_blank" href="https://twitter.com/Akrules03?s=20&t=WH0JqQnvrEnNd3MI1Dbp2Q">
+                                    <img src="https://tse3.mm.bing.net/th?id=OIP.EhGYQ7HxEvQwe0P7EHauuQHaGC&pid=Api&P=0"
+                                        width="40px"></a>
+                            </td>
+                            <td>
+                                <a target="_blank" href="https://www.facebook.com/profile.php?id=100083009631092"> <img
+                                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXin-g3lqRrc_pjvtJaWrz8K968g-I1zTgWg&usqp=CAU"
+                                        width="40px"></a>
+                            </td>
+
+                        </tr>
+                    </table>
+
+                </div>
+            </td>
+            <td class="profileOuterBorder">
+                <div>
+                    <pre>        <img class="dp"src="https://www.istemanit.in/static/media/gautum.a8f8e28218c1cdfea470.jpg" width="150px">
+            Gautam Pratap
+           graphic designer </pre>
+                    <table>
+                        <tr>
+                            <td> <a target="_blank" href="https://www.linkedin.com/in/gautampratap"> <img
+                                        src="https://tse3.mm.bing.net/th?id=OIP.EweiZI5x1TFwSg9aJw6pZgHaHa&pid=Api&P=0"
+                                        width="40px"></a></td>
+
+                            <td> <a href="https://www.instagram.com/yoursgautampratap/"> <img
+                                        src="https://tse1.mm.bing.net/th?id=OIP.incFBymNcooePgOaBQfdjgHaFj&pid=Api&P=0"
+                                        width="40px"></a></td>
+                            <td>
+                                <a target="_blank" href=""> <img
+                                        src="https://tse3.mm.bing.net/th?id=OIP.EhGYQ7HxEvQwe0P7EHauuQHaGC&pid=Api&P=0"
+                                        width="40px"></a>
+                            </td>
+                            <td>
+                                <a target="_blank" href=""> <img
+                                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXin-g3lqRrc_pjvtJaWrz8K968g-I1zTgWg&usqp=CAU"
+                                        width="40px"></a>
+                            </td>
+
+                        </tr>
+                    </table>
+
+                </div>
+            </td>
+
+            <td class="profileOuterBorder">
+                <div>
+                    <pre>        <img class="dp" src="https://drive.google.com/uc?export=view&id=14oO3CclkMWWNBuhyjwbJGKw3Gcm1pL_C" width="150px">
+           Anshika Arjariya
+            Content Writer</pre>
+                    <table>
+                        <tr>
+                            <td> <a target="_blank" href="https://www.linkedin.com/in/anshika-arjariya-18a911244"> <img
+                                        src="https://tse3.mm.bing.net/th?id=OIP.EweiZI5x1TFwSg9aJw6pZgHaHa&pid=Api&P=0"
+                                        width="40px"></a></td>
+
+                            <td> <a href=""> <img
+                                        src="https://tse1.mm.bing.net/th?id=OIP.incFBymNcooePgOaBQfdjgHaFj&pid=Api&P=0"
+                                        width="40px"></a></td>
+                            <td>
+                                <a target="_blank" href=""> <img
+                                        src="https://tse3.mm.bing.net/th?id=OIP.EhGYQ7HxEvQwe0P7EHauuQHaGC&pid=Api&P=0"
+                                        width="40px"></a>
+                            </td>
+                            <td>
+                                <a target="_blank" href=""> <img
+                                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXin-g3lqRrc_pjvtJaWrz8K968g-I1zTgWg&usqp=CAU"
+                                        width="40px"></a>
+                            </td>
+
+                        </tr>
+                    </table>
+
+                </div>
+            </td>
+
+
+        </tr>
+        <td class="profileOuterBorder">
+            <div>
+                <pre>        <img class="dp" src="https://drive.google.com/uc?export=view&id=1jQF59iYZ1rFPr-GKfKwzl-2ZnzRs3FCA" width="150px">
+             Arpit Gupta
+             Photographer </pre>
+                <table>
+                    <tr>
+                        <td> <a target="_blank" href="https://www.linkedin.com/in/arpit-gupta-24170b238/"> <img
+                                    src="https://tse3.mm.bing.net/th?id=OIP.EweiZI5x1TFwSg9aJw6pZgHaHa&pid=Api&P=0"
+                                    width="40px"></a></td>
+
+                        <td> <a href="https://www.instagram.com/_.arpit_.01/?igshid=YmMyMTA2M2Y%3D"> <img
+                                    src="https://tse1.mm.bing.net/th?id=OIP.incFBymNcooePgOaBQfdjgHaFj&pid=Api&P=0"
+                                    width="40px"></a></td>
+                        <td>
+                            <a target="_blank" href=""> <img
+                                    src="https://tse3.mm.bing.net/th?id=OIP.EhGYQ7HxEvQwe0P7EHauuQHaGC&pid=Api&P=0"
+                                    width="40px"></a>
+                        </td>
+                        <td>
+                            <a target="_blank" href="https://twitter.com/ArpitGu72813231?t=-cS7mVb-Mlj78fK2e9zrYw&s=09">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXin-g3lqRrc_pjvtJaWrz8K968g-I1zTgWg&usqp=CAU"
+                                    width="40px"></a>
+                        </td>
+
+                    </tr>
+                </table>
+
+            </div>
+        </td>
+        <td class="profileOuterBorder">
+            <div>
+                <pre>        <img class="dp" src="https://drive.google.com/uc?export=view&id=1xlhhNeVKQStKtXoF5YLR0gnNdAG2N888" width="150px">
+            Arin Bansal
+             Executive </pre>
+                <table>
+                    <tr>
+                        <td> <a target="_blank"
+                                href="https://www.linkedin.com/in/arin-bansal-46109a227/?originalSubdomain=in"> <img
+                                    src="https://tse3.mm.bing.net/th?id=OIP.EweiZI5x1TFwSg9aJw6pZgHaHa&pid=Api&P=0"
+                                    width="40px"></a></td>
+
+                        <td> <a targer="_blank" href="https://www.instagram.com/arin_bansal/?hl=en"> <img
+                                    src="https://tse1.mm.bing.net/th?id=OIP.incFBymNcooePgOaBQfdjgHaFj&pid=Api&P=0"
+                                    width="40px"></a></td>
+                        <td>
+                            <a target="_blank" href=""> <img
+                                    src="https://tse3.mm.bing.net/th?id=OIP.EhGYQ7HxEvQwe0P7EHauuQHaGC&pid=Api&P=0"
+                                    width="40px"></a>
+                        </td>
+                        <td>
+                            <a target="_blank" href=""> <img
+                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXin-g3lqRrc_pjvtJaWrz8K968g-I1zTgWg&usqp=CAU"
+                                    width="40px"></a>
+                        </td>
+
+                    </tr>
+                </table>
+
+            </div>
+        </td>
+        <td class="profileOuterBorder">
+            <div>
+                <pre>        <img class="dp" src="https://drive.google.com/uc?export=view&id=1avHA3CHkP0I7mkMkLwNaystx_s41aYY1" width="150px">
+            Bhumika Chouhan
+       Exicutive and Content Writer</pre>
+                <table>
+                    <tr>
+                        <td> <a target="_blank" href="https://www.linkedin.com/in/bhumika-chouhan-237906237/"><img
+                                    src="https://tse3.mm.bing.net/th?id=OIP.EweiZI5x1TFwSg9aJw6pZgHaHa&pid=Api&P=0"
+                                    width="40px"></a></td>
+
+                        <td> <a href=""> <img
+                                    src="https://tse1.mm.bing.net/th?id=OIP.incFBymNcooePgOaBQfdjgHaFj&pid=Api&P=0"
+                                    width="40px"></a></td>
+                        <td>
+                            <a target="_blank" href=""> <img
+                                    src="https://tse3.mm.bing.net/th?id=OIP.EhGYQ7HxEvQwe0P7EHauuQHaGC&pid=Api&P=0"
+                                    width="40px"></a>
+                        </td>
+                        <td>
+                            <a target="_blank" href=""> <img
+                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXin-g3lqRrc_pjvtJaWrz8K968g-I1zTgWg&usqp=CAU"
+                                    width="40px"></a>
+                        </td>
+
+                    </tr>
+                </table>
+
+            </div>
+        </td>
+
+        <tr>
+
+        </tr>
+    </table>
+
+</body>
+
+</html>
